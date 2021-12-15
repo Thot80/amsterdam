@@ -9,92 +9,213 @@ body {
     width: 100vw;
     overflow: hidden;
 }
+
 .main {
     display: flex;
     justify-content: center;
     align-content: center;
 }
+
 .calendar-grid {
     display: grid;
     width: 85.416%;
     height: 100vh;
     grid-template-columns: repeat(6, auto);
 }
+
 .item {
     background-color: #FFFFFF;
 }
+
 #day1 {
     background: #FFFFFF url("/assets/img/christmas-gbe92cb4da_640.png") no-repeat center;
-}#day2 {
+    transform: translate(-50%, -50%);
+}
+
+#day2 {
     background: url("/assets/img/10-11.png") no-repeat center;
     background-size: cover;
 }
+
 #day3 {
     background: url("/assets/img/10-12.png") no-repeat center;
     background-size: cover;
 }
+
 #day4 {
     background: url("/assets/img/10-13.png") no-repeat center;
     background-size: cover;
 }
+
 #day5 {
     background: url("/assets/img/10-14.png") no-repeat center;
     background-size: cover;
 }
+
 #day6 {
     background: #FFFFFF url("/assets/img/santa-gcf37d72fe_640.png") no-repeat center;
 }
+
 #day8 {
     background: url("/assets/img/10-21.png") no-repeat center;
     background-size: cover;
 }
+
 #day9 {
     background: url("/assets/img/10-22.png") no-repeat center;
     background-size: cover;
 }
+
 #day10 {
     background: url("/assets/img/10-23.png") no-repeat center;
     background-size: cover;
 }
+
 #day11 {
     background: url("/assets/img/10-24.png") no-repeat center;
     background-size: cover;
 }
+
 #day14 {
     background: url("/assets/img/10-31.png") no-repeat center;
     background-size: cover;
 }
+
 #day15 {
     background: url("/assets/img/10-32.png") no-repeat center;
     background-size: cover;
 }
+
 #day16 {
     background: url("/assets/img/10-33.png") no-repeat center;
     background-size: cover;
 }
+
 #day17 {
     background: url("/assets/img/10-34.png") no-repeat center;
     background-size: cover;
 }
+
 #day19 {
     background: #FFFFFF url("/assets/img/reindeer-g40ccc2057_640.png") no-repeat center;
 }
+
 #day20 {
     background: url("/assets/img/10-41.png") no-repeat center;
     background-size: cover;
 }
+
 #day21 {
     background: url("/assets/img/10-42.png") no-repeat center;
     background-size: cover;
 }
+
 #day22 {
     background: url("/assets/img/10-43.png") no-repeat center;
     background-size: cover;
 }
+
 #day23 {
     background: url("/assets/img/10-44.png") no-repeat center;
     background-size: cover;
 }
+
 #day24 {
     background: #FFFFFF url("/assets/img/snowman-g7371a6ee6_640.png") no-repeat center;
 }
+
+
+/*.i-large,*/
+
+
+/*.i-medium,*/
+
+
+/*.i-small {*/
+
+
+/*    position : absolute;*/
+
+
+/*    top: 0; right: 0; bottom: 0; left: 0;*/
+
+
+/*}*/
+
+
+/*.i-large {*/
+
+
+/*    background: url("assets/img/flocon-de-neige-large.png") repeat 0 0;*/
+
+
+/*    -webkit-animation: dropFlowParticles 2s linear infinite;*/
+
+
+/*    -o-animation: dropFlowParticles 2s linear infinite;*/
+
+
+/*    animation: dropFlowParticles 2s linear infinite;*/
+
+
+/*}*/
+
+
+/*.i-medium {*/
+
+
+/*    background: url("assets/img/flocon-de-neige-medium.png") repeat 0 0;*/
+
+
+/*    -webkit-animation: dropFlowParticles 12s linear infinite;*/
+
+
+/*    -o-animation: dropFlowParticles 12s linear infinite;*/
+
+
+/*    animation: dropFlowParticles 12s linear infinite;*/
+
+
+/*}*/
+
+
+/*.i-small {*/
+
+
+/*    background:url("assets/img/flocon-de-neige-small.png") repeat 0 0;*/
+
+
+/*    -webkit-animation: dropFlowParticles 27s linear infinite;*/
+
+
+/*    -o-animation: dropFlowParticles 27s linear infinite;*/
+
+
+/*    animation: dropFlowParticles 27s linear infinite;*/
+
+
+/*}*/
+
+
+/*@-webkit-keyframes dropFlowParticles {*/
+
+
+/*    from { background-position: 0 0; }*/
+
+
+/*    to { background-position: 0 413px; }*/
+
+
+/*}*/
+
+
+/*@keyframes dropFlowParticles {*/
+
+
+/*    from { background-position: 0 0; }*/
+
+
+/*    to { background-position: 0 413px; }*/
+
+
+/*}*/
