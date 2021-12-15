@@ -19,13 +19,13 @@ a{
   color: #D4423E;
 }
 
-#day22{
+button{
   transform-origin:center;
   perspective: 1000px;
   transition: transform 0.8s;
 }
 
-#day22:hover{
+button:hover{
   transform: rotateY(180deg);
 }
 

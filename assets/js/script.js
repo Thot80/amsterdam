@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 day5.onclick = () =>{
     var b5 = new bootstrap.Modal(document.getElementById('b5'), {
         keyboard: false
@@ -59,8 +58,6 @@ day21.onclick = () =>{
       })
     b21.show()
 }
-=======
 reveillonButton = document.getElementById('day24').addEventListener('click', function(){
     window.location.href='reveillon.html';
 })
->>>>>>> 2c525fd697663877bb993676b8583a043a62d510
