@@ -8,6 +8,7 @@
     width: 100%;
     height: 100vh;
     background-color: antiquewhite;
+    position: relative;
 }
 .calendar-grid {
     display: grid;
@@ -95,3 +96,37 @@
 #day24 {
     background: #FFFFFF url("/assets/img/snowman-g7371a6ee6_640.png") no-repeat center;
 }
+/*.i-large,*/
+/*.i-medium,*/
+/*.i-small {*/
+/*    position : absolute;*/
+/*    top: 0; right: 0; bottom: 0; left: 0;*/
+/*}*/
+
+/*.i-large {*/
+/*    background: url("assets/img/flocon-de-neige-large.png") repeat 0 0;*/
+/*    -webkit-animation: dropFlowParticles 2s linear infinite;*/
+/*    -o-animation: dropFlowParticles 2s linear infinite;*/
+/*    animation: dropFlowParticles 2s linear infinite;*/
+/*}*/
+/*.i-medium {*/
+/*    background: url("assets/img/flocon-de-neige-medium.png") repeat 0 0;*/
+/*    -webkit-animation: dropFlowParticles 12s linear infinite;*/
+/*    -o-animation: dropFlowParticles 12s linear infinite;*/
+/*    animation: dropFlowParticles 12s linear infinite;*/
+/*}*/
+/*.i-small {*/
+/*    background:url("assets/img/flocon-de-neige-small.png") repeat 0 0;*/
+/*    -webkit-animation: dropFlowParticles 27s linear infinite;*/
+/*    -o-animation: dropFlowParticles 27s linear infinite;*/
+/*    animation: dropFlowParticles 27s linear infinite;*/
+/*}*/
+
+/*@-webkit-keyframes dropFlowParticles {*/
+/*    from { background-position: 0 0; }*/
+/*    to { background-position: 0 413px; }*/
+/*}*/
+/*@keyframes dropFlowParticles {*/
+/*    from { background-position: 0 0; }*/
+/*    to { background-position: 0 413px; }*/
+/*}*/
