@@ -74,6 +74,37 @@ day8.addEventListener("click", function(){
 day9.addEventListener("click", function(){
     window.open("https://discord.com/channels/@me/920667406798573679/920687183784984576","_blank");
 })
+day10.addEventListener("click", function(){
+    window.open("https://www.freecodecamp.org/","_blank");
+})
+day12.addEventListener("click", function(){
+    window.open("https://www.youtube.com/c/grafikart","_blank");
+})
+day14.addEventListener("click", function(){
+    window.open("https://www.youtube.com/c/OnlineTutorials4Designers","_blank");
+})
+day15.addEventListener("click", function(){
+    window.open("https://css-tricks.com/","_blank");
+})
+day16.addEventListener("click", function(){
+    window.open("https://validator.w3.org/#validate_by_input","_blank");
+})
+day19.addEventListener("click", function(){
+    window.open("https://www.youtube.com/c/Motion-cafe","_blank");
+})
+day20.addEventListener("click", function(){
+    window.open("https://www.youtube.com/watch?v=_S7WEVLbQ-Y&ab_channel=FicLord","_blank");
+})
+day21.addEventListener("click", function(){
+    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley","_blank");
+})
+day22.addEventListener("click", function(){
+    window.open("https://www.youtube.com/watch?v=rR4n-0KYeKQ","_blank");
+})
+day22.addEventListener("click", function(){
+    window.open("https://www.youtube.com/watch?v=XjkktIdrncI","_blank");
+})
+
 
 reveillonButton = document.getElementById('day24').addEventListener('click', function(){
     window.location.href='reveillon.html';
